@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidUdacityCourtCounter</string>
+
+    <string-array name="sportsList">
+        <item>Basketball</item>
+        <item>Baseball</item>
+    </string-array>
+
+</resources>
